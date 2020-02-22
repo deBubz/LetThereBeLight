@@ -1,0 +1,17 @@
+{
+  "name": "restoration",
+  "version": "1.0.0",
+  "description": "restoring an old and broken project",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "deBubz",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.3.1"
+  }
+}
