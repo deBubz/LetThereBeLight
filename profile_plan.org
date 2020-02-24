@@ -21,3 +21,28 @@
 **** TODO Create a portfolio profile
 ** Ideas
    - Changing the about page to a landing page [[https://vuepress.vuejs.org/theme/default-theme-config.html#homepage][Homepage]]
+* Recovery plan
+** Tasks
+*** Primary
+**** DONE about [2/3]
+     CLOSED: [2020-02-25 Tue 03:01]
+     - [X] fix text
+     - [X] fix link/images
+**** TODO S1 [0/3]
+     - [ ] fix text
+     - [ ] fix link/images
+*** Secondary
+**** TODO S2 [0/3]
+     - [ ] fix text
+     - [ ] fix link/images
+**** TODO S3 [0/3]
+     - [ ] fix text
+     - [ ] fix link/images
+**** TODO S4 [0/3]
+     - [ ] fix text
+     - [ ] fix link/images
+**** Check 1
+**** Check 2
+**** Change title back to normal 
+** Ideas 
+   - Change the landing page

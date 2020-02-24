@@ -1,5 +1,5 @@
 # About Me
-
+<!-- Change Landing page -->
 Hey I'm Bao and I'm a first year IT Student at UTS, majoring in Enterprise System development.
 My current goal so far is to be a part of the software development world, and hopefully one day leading my own project.
 

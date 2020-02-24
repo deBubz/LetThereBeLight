@@ -14,7 +14,7 @@ You would think the local council is responsible for keeping the lights maintain
 A quick online search reveals the majority of NSW's light system still relies on online forms to report faulty lights, 
 a very inefficient reporting systems as it still relies on manual labor to process the reports, 
 and it does not guarantees that those faulty Lights are reported as they break.
-Some of these forms can be seen [here]() and [here]().
+Some of these forms can be seen [here](https://www.unitedenergy.com.au/contact-us/reportstreetlight/) and [here](https://www.ausgrid.com.au/In-your-community/Report-a-problem/Streetlights).
 
 ### Solution
 
@@ -25,7 +25,7 @@ And here is the architecture of the system I`ll be building throughout the studi
 Each devices will gather and transfer data through a MQTT broker server.
 Then the data will be stored in the database to be interfaced with on a WebApp
 
-> Include picture
+![General Architecture](../assets/genericArch.png)
 
 ## Learning Contract
 
