@@ -15,7 +15,9 @@
 ***** Week 3
 ***** Week 4
 ** Tasks
-*** TODO Create a portfolio profile
-*** TODO Start a plain and basic react app
-*** DONE create a hidden portfolio to work on and fix the SummerDevBlog
-    CLOSED: [2020-02-22 Sat 23:31]
+*** Primary
+*** Secondary
+**** TODO Start a plain and basic react app
+**** TODO Create a portfolio profile
+** Ideas
+   - Changing the about page to a landing page [[https://vuepress.vuejs.org/theme/default-theme-config.html#homepage][Homepage]]
