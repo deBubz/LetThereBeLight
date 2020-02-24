@@ -25,7 +25,7 @@ And here is the architecture of the system I`ll be building throughout the studi
 Each devices will gather and transfer data through a MQTT broker server.
 Then the data will be stored in the database to be interfaced with on a WebApp
 
-![General Architecture](../assets/genericArch.png)
+![General Architecture](../assets/a_generic_arch.png)
 
 ## Learning Contract
 

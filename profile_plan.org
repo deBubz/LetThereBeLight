@@ -20,29 +20,19 @@
 **** TODO Start a plain and basic react app
 **** TODO Create a portfolio profile
 ** Ideas
-   - Changing the about page to a landing page [[https://vuepress.vuejs.org/theme/default-theme-config.html#homepage][Homepage]]
 * Recovery plan
 ** Tasks
 *** Primary
-**** DONE about [2/3]
+**** DONE about 
      CLOSED: [2020-02-25 Tue 03:01]
-     - [X] fix text
-     - [X] fix link/images
-**** TODO S1 [0/3]
-     - [ ] fix text
-     - [ ] fix link/images
-*** Secondary
-**** TODO S2 [0/3]
-     - [ ] fix text
-     - [ ] fix link/images
-**** TODO S3 [0/3]
-     - [ ] fix text
-     - [ ] fix link/images
-**** TODO S4 [0/3]
-     - [ ] fix text
-     - [ ] fix link/images
-**** Check 1
-**** Check 2
-**** Change title back to normal 
+**** TODO S1 
+**** TODO S2
+**** TODO S3
+**** TODO S4 
+**** TODO Check 1
+**** TODO Check 2
+**** TODO Change title back to normal 
+*** Bug box
 ** Ideas 
-   - Change the landing page
+   - Changing the about page to a landing page [[https://vuepress.vuejs.org/theme/default-theme-config.html#homepage][Homepage]]
+   - s1 - link tuesday code page
