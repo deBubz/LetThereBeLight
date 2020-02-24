@@ -1,0 +1,21 @@
+* Plan for portfolio
+** Specs
+*** Portfolio
+**** Git Repo:
+*** Fix IoT Dev Blog
+**** Git Repo
+***** iot2019_nodemcu - device code
+***** iot_interface_2019 - presentation site
+***** debubz.github.io - statoc blog site repo
+**** past files
+***** Week 1 
+      - Blink API test page
+      - misc blog stuff
+***** Week 2
+***** Week 3
+***** Week 4
+** Tasks
+*** TODO Create a portfolio profile
+*** TODO Start a plain and basic react app
+*** DONE create a hidden portfolio to work on and fix the SummerDevBlog
+    CLOSED: [2020-02-22 Sat 23:31]
