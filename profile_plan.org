@@ -27,8 +27,15 @@
      CLOSED: [2020-02-25 Tue 03:01]
 **** DONE S1 
      CLOSED: [2020-02-25 Tue 04:38]
-**** TODO S2
-**** TODO S3
+**** DONE S2 
+     CLOSED: [2020-02-25 Tue 18:17]
+**** DONE S3 [5/5]
+     CLOSED: [2020-02-25 Tue 22:25]
+     - [X] Design
+     - [X] Node
+     - [X] MongoDB
+     - [X] Vue
+     - [X] Electronics
 **** TODO S4 
 **** TODO Check 1
 **** TODO Check 2
@@ -37,3 +44,8 @@
 ** Ideas 
    - Changing the about page to a landing page [[https://vuepress.vuejs.org/theme/default-theme-config.html#homepage][Homepage]]
    - s1 - link tuesday code page
+   - s2 - Database recover the MongoDB notes - link with "syntax"
+   - s3 - Node - node notes
+   - General work flow for recovery
+     - Text -> format -> links
+*** What the fuck is the IoT_Interface/servers
