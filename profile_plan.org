@@ -25,7 +25,8 @@
 *** Primary
 **** DONE about 
      CLOSED: [2020-02-25 Tue 03:01]
-**** TODO S1 
+**** DONE S1 
+     CLOSED: [2020-02-25 Tue 04:38]
 **** TODO S2
 **** TODO S3
 **** TODO S4 

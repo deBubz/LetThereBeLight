@@ -2,13 +2,13 @@
 
 ## What I did
 
-### Monday
+### Day 1 - Monday
 
 After the welcoming event, the group were instructed to put together a Data Logger, which I found very interesting as that is my first exposure to electronics (soldering is pretty fun). 
 [Documentations](http://iot.nortcele.win/doc/) (board schematics and source) are also provided by Danon, the Studio's Tutor. 
 In the docs, there are also guides for how to interact with the Data Logger.
 
-### Tuesday
+### Day 2 - Tuesday
 
 The second day was rather tough for me.
 I didn't plan what to do for the day.
@@ -20,7 +20,7 @@ It worked as expected *locally*, as this is hosted using [Github Pages](https://
 
 ![Misc](../assets/s1_blynk_api.png)
 
-### Wednesday
+### Day 3 - Wednesday
 
 I spent *"some time"* on the third day getting to know the people I'll spent my next 4 weeks with. 
 The majority of my cohorts are *Electrical Engineering majors* whom I could **learn a lot** from and maybe and brainstorm some problems to solve for this studio.
@@ -36,7 +36,7 @@ I also spent a part of the day trying to reverse engineer the [source code](http
 Focusing on the `WifiMgmt.cpp` to try and figure out how data is transmitted to the cloud from the `esp8266` wifi chip.
 I could see what is used for what function but have yet figure it out, they could be located in the missing `DataSync` files.
 
-### Thursday
+### Day 4 - Thursday 
 
 I get to experiment with a few "new" techs.
 
@@ -50,7 +50,7 @@ Deploying the [Mosquito mqtt](https://mosquitto.org/) on the virtual server was 
 
 <!-- Also, Danon confirmed 1 -->
 
-### Friday
+### Day 5 - Friday
 
 The last day of the first sprint, I spent building my portfolio and documenting my progress so far.
 This is the structure I decided to set my portfolio in.
