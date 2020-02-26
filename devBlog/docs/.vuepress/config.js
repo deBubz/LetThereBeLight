@@ -1,14 +1,13 @@
 module.exports = {
-    title: "fff", // change this when done
+    title: "Bao Hoang", // change this when done
     themeConfig: {
         nexLinks: true,
         prevLinks: true,
         smoothScroll: true,
         sidebar: [
-            '/',
             {
                 title: 'Summer IoT Studio',
-                collapsable: true,
+                collapsable: false,
                 sidebarDepth: 3,
                 children: [
                     ['/summer/', 'What\'s this?'],
