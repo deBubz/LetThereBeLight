@@ -1,5 +1,18 @@
-# 19_iot_blog_recovery
+# 2019 Summer Studio
+
+---
+
+## Recovery mode
 
 Lets recover the development blog
 
-Lets just reuse VuePress for the docs
+---
+
+## We got
+
+1. The Development Blog
+2. The code for the device
+3. The notes taken while working
+4. The interface
+
+
