@@ -1,0 +1,35 @@
+{
+  "name": "iot_interface_2019",
+  "version": "1.0.0",
+  "description": "Vue WebApp for IoT Summer Studio 2019 uts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startAPI": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deBubz/iot_interface_2019.git"
+  },
+  "keywords": [
+    "Vue",
+    "Beginner",
+    "IoT"
+  ],
+  "author": "deBubz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deBubz/iot_interface_2019/issues"
+  },
+  "homepage": "https://github.com/deBubz/iot_interface_2019#readme",
+  "dependencies": {
+    "axios": "0.19.0",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.13",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "vue": "^2.6.7"
+  }
+}
