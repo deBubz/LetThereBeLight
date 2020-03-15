@@ -1,0 +1,6 @@
+use basic template 
+change connections
+
+const char* ssid = "Matts Hotspot";
+const char* password = "hotspot1";
+const char* mqtt_server = "leonidas.summerstudio.xyz";
