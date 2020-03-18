@@ -55,7 +55,7 @@ It does a great job describing how the **asynchronous functions** works in `Node
 Through out, it shows you how to serve a basic static website and manages routing requests.
 Overall, it was very helpful in explaining the operations of NodeJS and I will definitely save it for **future revisions**.
 
-[Here is my notes on the Book]().
+[Here is my notes on the Book](https://github.com/deBubz/2019_iot_summer_studio/tree/master/studio_notes/Week3/NodeJs).
 
 Another source I used is [Guru99 NodeJsTutorial](https://www.guru99.com/node-js-tutorial.html).
 This also shows me a little bit of [ExpressJS](https://expressjs.com/), which is a different framework focuses more on building webapp.
@@ -97,9 +97,9 @@ After this, I went through the whole [Quick-start part of the Official Docs](htt
 
 You can see all my work on **Node-MongoDb** here:
 
-- [dbQuickStart]()
-- [moreNode]()
-- [node-example]()
+- [dbQuickStart](https://github.com/deBubz/2019_iot_summer_studio/tree/master/studio_notes/Week3/dbQuickStart)
+- [moreNode](https://github.com/deBubz/2019_iot_summer_studio/tree/master/studio_notes/Week3/MoreNode)
+- [node-example](https://github.com/deBubz/2019_iot_summer_studio/tree/master/studio_notes/Week3/node-example)
 
 :::warning
 If you want to try to execute them, you might need to edit in your **db connection** url and/or run `npm install` as I had put the url string and `node_package` folder into `.gitignore` for storage and security reasons.
