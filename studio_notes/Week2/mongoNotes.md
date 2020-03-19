@@ -1,37 +1,37 @@
 # MongDb Notes
 
 # One
+
 [Sauce](https://youtu.be/pWbMrx5rVBE)
 
 ## starting 
 
-- 4:20 skip installation process
-- create folder /mongo/data/db  /mongo/log
-- bash into /mongo/bin
-  - `mongod --directoryperdb --dbpath <path to data/db> --logpath <pathto /log> --logappend --rest --install`
-  - run as a service
-  - `net start MongoDB` Start running in background
-  - `mongo` start mongoshell
-  - show dbs
- 
-- `use <dbname>` create and set what youre using
-- `db` check what db is being used
+  - 4:20 skip installation process
+  - create folder /mongo/data/db  /mongo/log
+  - bash into /mongo/bin
+    - `mongod --directoryperdb --dbpath <path to data/db> --logpath <pathto /log> --logappend --rest --install`
+    - run as a service
+    - `net start MongoDB` Start running in background
+    - `mongo` start mongoshell
+    - show dbs
+  - `use <dbname>` create and set what youre using
+  - `db` check what db is being used
 
 ### db.createUser()
 
-> also see doccumentation
+> also see documentation
 
 ```mongo
 db.createUser({
     user:"";
     pwd:"";
-    roles:[ see doccumentation]
+    roles:[ see documentation]
 });dv
 
 // return status success, fail
 ```
 
-### db.createCollection('colection name');
+### db.createCollection('colection name')
 
 - similar to RDMS tables
 - returs status
