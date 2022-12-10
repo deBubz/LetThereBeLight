@@ -24,11 +24,11 @@
   "homepage": "https://github.com/deBubz/iot_interface_2019#readme",
   "dependencies": {
     "axios": "0.21.1",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.13",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongodb": "^3.1.13",
     "vue": "^2.6.7"
   }
